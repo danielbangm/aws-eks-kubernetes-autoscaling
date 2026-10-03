@@ -16,12 +16,12 @@ Create an IAM user in aws console and assign it a “AdministratorAccess”
 ## Step4: Verify the Cluster Creation
 I ran into so many errors here trying to update kubectl configuration. That's because I'm running wsl in vs code on a windows machine. had to clear bash command cache(bash -r). Anyways I eventually figured it out
 <img width="786" height="324" alt="p5" src="https://github.com/user-attachments/assets/dbcf0524-3666-4977-a08a-efa3541b3004" />
-
-## Step5: Install helm 
 <img width="793" height="135" alt="p6" src="https://github.com/user-attachments/assets/bce9da9f-311a-4484-90ee-05503ee9386c" />
 
-## Step6: Create a Helm Chart for your Microservices
+## Step5: Install helm 
 <img width="788" height="259" alt="p7" src="https://github.com/user-attachments/assets/10070451-8932-436e-b373-bee2cad5c7d1" />
+
+## Step6: Create a Helm Chart for your Microservices
 <img width="787" height="384" alt="p8" src="https://github.com/user-attachments/assets/177233d5-5460-4776-b532-c8d290e16b63" />
 <img width="777" height="392" alt="p9" src="https://github.com/user-attachments/assets/69892f6e-00af-410f-86a4-ca6fd3997f2e" />
 <img width="797" height="378" alt="p10" src="https://github.com/user-attachments/assets/ca67530d-93ac-4c6a-a384-7e79dcc7e635" />
