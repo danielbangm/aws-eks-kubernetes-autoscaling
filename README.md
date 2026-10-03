@@ -45,6 +45,7 @@ Load testing was performed with Siege to simulate increased traffic and verify K
             CPU Target: 50%
                    |
              1 - 5 Pods
+```
 
 ## Deployment
 The EKS cluster was created with three managed worker nodes using eksctl.
@@ -85,7 +86,3 @@ The project successfully demonstrated:
 - Automatically scaling workloads with HPA
 - Performing load testing with Siege
 - Troubleshooting Kubernetes networking and DNS issues
-
-
-
-
