@@ -1,0 +1,25 @@
+# Secrets / SSH keys
+*.pem
+*.key
+
+# Environment files
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
